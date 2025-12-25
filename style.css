@@ -5,11 +5,11 @@ body{
 }
 .body{
     display: flex;
-    background-color: red;
+    background-color: black;
     flex-direction: column;
 }
 .container-profile{
-    background-color: yellow;
+    background-color: black;
     margin-left: 100px;
 
 }
@@ -157,7 +157,7 @@ body{
 .soda{
     display: flex;
     color: aliceblue;
-    font-family: "kanir",  sans-serif;
+    font-family: "kanit",  sans-serif;
     margin-left: 200px;
 }
 .cherry{
